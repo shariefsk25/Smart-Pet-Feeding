@@ -23,6 +23,6 @@ Health analytics and pet activity tracking
 
 📐 System Architecture
 
-[Pet Presence] → [Ultrasonic Sensor] → [ESP8266] → [Servo Motor]
-                               ↓
+[Pet Presence] → [Ultrasonic Sensor] → [ESP8266] → [Servo Motor
+                            ↓
                 [Arduino IoT Cloud] ←→ [Mobile App]
